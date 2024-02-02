@@ -1,5 +1,9 @@
 
 
+[搭建 CHATGLM3](docs/本地部署搭建chatglm3.md)
+
+
+
 > AIGC
 
 https://github.com/huggingface/blog/blob/main/zh/codellama.md
